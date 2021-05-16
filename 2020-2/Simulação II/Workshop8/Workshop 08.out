@@ -1,0 +1,358 @@
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 1 de 7
+
+Projeto: Workshop8                                                   Data da execução : 3/17/2021
+Analista: Jordan Dias                                                 Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+ligacao.VATime                              .42141     (Insuf)    .33924     .51674         89    
+ligacao.NVATime                             .00000     (Insuf)    .00000     .00000         89    
+ligacao.WaitTime                            .11819     (Insuf)    .00000     .95647         89    
+ligacao.TranTime                            .00000     (Insuf)    .00000     .00000         89    
+ligacao.OtherTime                           .00000     (Insuf)    .00000     .00000         89    
+ligacao.TotalTime                           .53960     (Insuf)    .33924     1.3662         89    
+Atendimento.Queue.WaitingTime               .14684     (Insuf)    .00000     1.0391         92    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+ligacao.WIP                                 5.5337     (Insuf)    .00000     13.000     12.000    
+Atendente.NumberBusy                        3.8025     (Insuf)    .00000     6.0000     3.0000    
+Atendente.NumberScheduled                   6.5000     (Insuf)    3.0000     10.000     3.0000    
+Atendente.Utilization                       .68173     (Insuf)    .00000     1.0000     1.0000    
+Atendimento.Queue.NumberInQueue             1.7312     (Insuf)    .00000     10.000     9.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+ligacao.NumberIn                            101.00    
+ligacao.NumberOut                           89.000    
+Atendente.NumberSeized                      92.000    
+Atendente.ScheduledUtilization              .58500    
+System.NumberOut                            89.000    
+
+Iniciando replicação 2 de 7
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 2 de 7
+
+Projeto: Workshop8                                                   Data da execução : 3/17/2021
+Analista: Jordan Dias                                                 Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+ligacao.VATime                              .41829     (Insuf)    .35124     .48741         94    
+ligacao.NVATime                             .00000     (Insuf)    .00000     .00000         94    
+ligacao.WaitTime                            .12372     (Insuf)    .00000     .70622         94    
+ligacao.TranTime                            .00000     (Insuf)    .00000     .00000         94    
+ligacao.OtherTime                           .00000     (Insuf)    .00000     .00000         94    
+ligacao.TotalTime                           .54201     (Insuf)    .35124     1.1298         94    
+Atendimento.Queue.WaitingTime               .14337     (Insuf)    .00000     .81042         97    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+ligacao.WIP                                 5.9917     (Insuf)    .00000     16.000     14.000    
+Atendente.NumberBusy                        4.0058     (Insuf)    .00000     10.000     3.0000    
+Atendente.NumberScheduled                   6.5000     (Insuf)    3.0000     10.000     3.0000    
+Atendente.Utilization                       .69788     (Insuf)    .00000     1.0000     1.0000    
+Atendimento.Queue.NumberInQueue             1.9858     (Insuf)    .00000     13.000     11.000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+ligacao.NumberIn                            108.00    
+ligacao.NumberOut                           94.000    
+Atendente.NumberSeized                      97.000    
+Atendente.ScheduledUtilization              .61628    
+System.NumberOut                            94.000    
+
+Iniciando replicação 3 de 7
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 3 de 7
+
+Projeto: Workshop8                                                   Data da execução : 3/17/2021
+Analista: Jordan Dias                                                 Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+ligacao.VATime                              .41315     (Insuf)    .33939     .48145         94    
+ligacao.NVATime                             .00000     (Insuf)    .00000     .00000         94    
+ligacao.WaitTime                            .08049     (Insuf)    .00000     .39731         94    
+ligacao.TranTime                            .00000     (Insuf)    .00000     .00000         94    
+ligacao.OtherTime                           .00000     (Insuf)    .00000     .00000         94    
+ligacao.TotalTime                           .49363     (Insuf)    .34573     .80544         94    
+Atendimento.Queue.WaitingTime               .09684     (Insuf)    .00000     .66083         97    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+ligacao.WIP                                 5.3422     (Insuf)    .00000     16.000     14.000    
+Atendente.NumberBusy                        3.9496     (Insuf)    .00000     6.0000     3.0000    
+Atendente.NumberScheduled                   6.5000     (Insuf)    3.0000     10.000     3.0000    
+Atendente.Utilization                       .69189     (Insuf)    .00000     1.0000     1.0000    
+Atendimento.Queue.NumberInQueue             1.3926     (Insuf)    .00000     13.000     11.000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+ligacao.NumberIn                            108.00    
+ligacao.NumberOut                           94.000    
+Atendente.NumberSeized                      97.000    
+Atendente.ScheduledUtilization              .60764    
+System.NumberOut                            94.000    
+
+Iniciando replicação 4 de 7
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 4 de 7
+
+Projeto: Workshop8                                                   Data da execução : 3/17/2021
+Analista: Jordan Dias                                                 Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+ligacao.VATime                              .41091     (Insuf)    .30415     .48628         84    
+ligacao.NVATime                             .00000     (Insuf)    .00000     .00000         84    
+ligacao.WaitTime                            .05105     (Insuf)    .00000     .41970         84    
+ligacao.TranTime                            .00000     (Insuf)    .00000     .00000         84    
+ligacao.OtherTime                           .00000     (Insuf)    .00000     .00000         84    
+ligacao.TotalTime                           .46196     (Insuf)    .30415     .83795         84    
+Atendimento.Queue.WaitingTime               .07035     (Insuf)    .00000     .64883         87    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+ligacao.WIP                                 4.2355     (Insuf)    .00000     11.000     10.000    
+Atendente.NumberBusy                        3.4669     (Insuf)    .00000     7.0000     3.0000    
+Atendente.NumberScheduled                   6.5156     (Insuf)    3.0000     10.000     3.0000    
+Atendente.Utilization                       .61009     (Insuf)    .00000     1.0000     1.0000    
+Atendimento.Queue.NumberInQueue             .76868     (Insuf)    .00000     8.0000     7.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+ligacao.NumberIn                            94.000    
+ligacao.NumberOut                           84.000    
+Atendente.NumberSeized                      87.000    
+Atendente.ScheduledUtilization              .53209    
+System.NumberOut                            84.000    
+
+Iniciando replicação 5 de 7
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 5 de 7
+
+Projeto: Workshop8                                                   Data da execução : 3/17/2021
+Analista: Jordan Dias                                                 Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+ligacao.VATime                              .41332     (Insuf)    .30537     .49117        106    
+ligacao.NVATime                             .00000     (Insuf)    .00000     .00000        106    
+ligacao.WaitTime                            .19290     (Insuf)    .00000     .94209        106    
+ligacao.TranTime                            .00000     (Insuf)    .00000     .00000        106    
+ligacao.OtherTime                           .00000     (Insuf)    .00000     .00000        106    
+ligacao.TotalTime                           .60623     (Insuf)    .30537     1.3623        106    
+Atendimento.Queue.WaitingTime               .23945     (Insuf)    .00000     1.1266        112    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+ligacao.WIP                                 7.7828     (Insuf)    .00000     19.000     18.000    
+Atendente.NumberBusy                        4.4414     (Insuf)    .00000     8.0000     6.0000    
+Atendente.NumberScheduled                   6.5000     (Insuf)    3.0000     10.000     6.0000    
+Atendente.Utilization                       .75861     (Insuf)    .00000     1.0000     1.0000    
+Atendimento.Queue.NumberInQueue             3.3414     (Insuf)    .00000     16.000     12.000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+ligacao.NumberIn                            124.00    
+ligacao.NumberOut                           106.00    
+Atendente.NumberSeized                      112.00    
+Atendente.ScheduledUtilization              .68330    
+System.NumberOut                            106.00    
+
+Iniciando replicação 6 de 7
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 6 de 7
+
+Projeto: Workshop8                                                   Data da execução : 3/17/2021
+Analista: Jordan Dias                                                 Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+ligacao.VATime                              .41527     (Insuf)    .33902     .49408         92    
+ligacao.NVATime                             .00000     (Insuf)    .00000     .00000         92    
+ligacao.WaitTime                            .06387     (Insuf)    .00000     .41426         92    
+ligacao.TranTime                            .00000     (Insuf)    .00000     .00000         92    
+ligacao.OtherTime                           .00000     (Insuf)    .00000     .00000         92    
+ligacao.TotalTime                           .47913     (Insuf)    .33902     .80574         92    
+Atendimento.Queue.WaitingTime               .07819     (Insuf)    .00000     .57273         95    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+ligacao.WIP                                 4.7727     (Insuf)    .00000     12.000     5.0000    
+Atendente.NumberBusy                        3.9265     (Insuf)    .00000     10.000     3.0000    
+Atendente.NumberScheduled                   6.5071     (Insuf)    3.0000     10.000     3.0000    
+Atendente.Utilization                       .67861     (Insuf)    .00000     1.0000     1.0000    
+Atendimento.Queue.NumberInQueue             .84617     (Insuf)    .00000     5.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+ligacao.NumberIn                            97.000    
+ligacao.NumberOut                           92.000    
+Atendente.NumberSeized                      95.000    
+Atendente.ScheduledUtilization              .60342    
+System.NumberOut                            92.000    
+
+Iniciando replicação 7 de 7
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 7 de 7
+
+Projeto: Workshop8                                                   Data da execução : 3/17/2021
+Analista: Jordan Dias                                                 Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 10.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+ligacao.VATime                              .41815     (Insuf)    .33557     .49039         82    
+ligacao.NVATime                             .00000     (Insuf)    .00000     .00000         82    
+ligacao.WaitTime                            .03341     (Insuf)    .00000     .38041         82    
+ligacao.TranTime                            .00000     (Insuf)    .00000     .00000         82    
+ligacao.OtherTime                           .00000     (Insuf)    .00000     .00000         82    
+ligacao.TotalTime                           .45156     (Insuf)    .33557     .83244         82    
+Atendimento.Queue.WaitingTime               .05470     (Insuf)    .00000     .69483         85    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+ligacao.WIP                                 4.2043     (Insuf)    .00000     12.000     11.000    
+Atendente.NumberBusy                        3.4585     (Insuf)    .00000     9.0000     3.0000    
+Atendente.NumberScheduled                   6.5457     (Insuf)    3.0000     10.000     3.0000    
+Atendente.Utilization                       .59724     (Insuf)    .00000     1.0000     1.0000    
+Atendimento.Queue.NumberInQueue             .74580     (Insuf)    .00000     9.0000     8.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+ligacao.NumberIn                            93.000    
+ligacao.NumberOut                           82.000    
+Atendente.NumberSeized                      85.000    
+Atendente.ScheduledUtilization              .52838    
+System.NumberOut                            82.000    
+
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                               Resumo de resultados para 7 Replicações
+
+Projeto: Workshop8                                                   Data da execução : 3/17/2021
+Analista: Jordan Dias                                                 Data de revisão do modelo: 3/17/2021
+
+
+                                             RESULTADOS
+
+Identificador                                 Média    Meia-largura Mínima    Maximo # de Replicações
+___________________________________________________________________________________________________
+
+ligacao.NumberIn                            103.57     10.058     93.000     124.00     7
+ligacao.NumberOut                           91.571     7.3187     82.000     106.00     7
+Atendente.NumberSeized                      95.000     8.1857     85.000     112.00     7
+Atendente.ScheduledUtilization              .59373     .04918     .52838     .68330     7
+System.NumberOut                            91.571     7.3187     82.000     106.00     7
+
+Tempo executando a simulação: 0.03 minutos.
+Simulação completada.

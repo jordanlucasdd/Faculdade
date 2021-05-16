@@ -1,0 +1,15 @@
+[RESOURCES]
+Empilhadeira CD
+Operacao CD
+Empilhadeira Fabrica
+[VARIABLES]
+Separate 4.NumberOut Dup
+Consumo de material pelo CD.NumberOut
+Separate 4.NumberOut Orig
+Carregar caminhao.NumberOut
+Carregar caminhao.NumberIn
+Dispose 7.NumberOut
+Cria frota de caminhoes.NumberOut
+Descarregar caminhao.NumberIn
+Descarregar caminhao.NumberOut
+Consumo de material pelo CD.NumberIn

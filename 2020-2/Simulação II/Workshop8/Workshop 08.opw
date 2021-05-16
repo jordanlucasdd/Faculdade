@@ -1,0 +1,7 @@
+[RESOURCES]
+Atendente
+[VARIABLES]
+Chegada de ligacoes de Cliente.NumberOut
+Atendimento.NumberIn
+Atendimento.NumberOut
+termino da ligacao.NumberOut

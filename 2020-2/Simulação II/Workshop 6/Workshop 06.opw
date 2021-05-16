@@ -1,0 +1,8 @@
+[RESOURCES]
+Baia
+Empilhadeira
+Agente Despachador
+Operador
+[VARIABLES]
+Chegada de Caminhoes.NumberOut
+Caminhao deixa a Distribuidora.NumberOut

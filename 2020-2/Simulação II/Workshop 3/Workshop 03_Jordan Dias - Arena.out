@@ -1,0 +1,80 @@
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: WORKSHOP 3                                                  Data da execução : 3/17/2021
+Analista: Jordan Dias                                                 Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 3000.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Pecas.VATime                                532.56     (Insuf)    441.89     606.96         51    
+Pecas.NVATime                               .00000     (Insuf)    .00000     .00000         51    
+Pecas.WaitTime                              814.13     (Insuf)    498.36     1632.6         51    
+Pecas.TranTime                              .00000     (Insuf)    .00000     .00000         51    
+Pecas.OtherTime                             .00000     (Insuf)    .00000     .00000         51    
+Pecas.TotalTime                             112.73     (Insuf)    71.239     202.23         51    
+Retificar.Queue.WaitingTime                 3.3010     .65421     .00000     16.793        789    
+Fazer Tratamento Termico.Queue.WaitingTime  4.9644     (Insuf)    .00000     47.273         78    
+Furar.Queue.WaitingTime                     11.453     1.1099     .00000     32.471        768    
+Cria Lote de 15.Queue.WaitingTime           23.200     (Corr)     .00000     149.63        765    
+Montar Pallet.Queue.WaitingTime             .00000     (Insuf)    .00000     .00000         51    
+Cria Lote de 10 pecas.Queue.WaitingTime     11.118     2.4874     .00000     107.08        780    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pecas.WIP                                   25.102     (Corr)     .00000     70.000     31.000    
+Operador 01.NumberBusy                      .51120     (Insuf)    .00000     1.0000     1.0000    
+Operador 01.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador 01.Utilization                     .51120     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira.NumberBusy                     .06499     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira.Utilization                    .06499     (Insuf)    .00000     1.0000     .00000    
+Retifica.NumberBusy                         .26150     (Insuf)    .00000     1.0000     1.0000    
+Retifica.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Retifica.Utilization                        .26150     (Insuf)    .00000     1.0000     1.0000    
+Forno.NumberBusy                            .47915     (Insuf)    .00000     1.0000     .00000    
+Forno.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Forno.Utilization                           .47915     (Insuf)    .00000     1.0000     .00000    
+Furadeira.NumberBusy                        .51120     (Insuf)    .00000     1.0000     1.0000    
+Furadeira.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Furadeira.Utilization                       .51120     (Insuf)    .00000     1.0000     1.0000    
+Retificar.Queue.NumberInQueue               .87164     .36008     .00000     14.000     6.0000    
+Fazer Tratamento Termico.Queue.NumberInQue  .12908     (Insuf)    .00000     3.0000     .00000    
+Furar.Queue.NumberInQueue                   2.9417     (Corr)     .00000     17.000     2.0000    
+Cria Lote de 15.Queue.NumberInQueue         5.9172     .45555     .00000     15.000     2.0000    
+Montar Pallet.Queue.NumberInQueue           .00000     (Insuf)    .00000     .00000     .00000    
+Cria Lote de 10 pecas.Queue.NumberInQueue   2.9325     .50809     .00000     10.000     8.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Pecas.NumberIn                              924.00    
+Pecas.NumberOut                             893.00    
+Operador 01.NumberSeized                    768.00    
+Operador 01.ScheduledUtilization            .51120    
+Empilhadeira.NumberSeized                   51.000    
+Empilhadeira.ScheduledUtilization           .06499    
+Retifica.NumberSeized                       789.00    
+Retifica.ScheduledUtilization               .26150    
+Forno.NumberSeized                          78.000    
+Forno.ScheduledUtilization                  .47915    
+Furadeira.NumberSeized                      768.00    
+Furadeira.ScheduledUtilization              .51120    
+System.NumberOut                            51.000    
+
+
+Tempo executando a simulação: 0.00 minutos.
+Simulação completada.

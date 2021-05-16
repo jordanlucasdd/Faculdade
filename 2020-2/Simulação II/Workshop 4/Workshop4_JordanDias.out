@@ -1,0 +1,130 @@
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Exemplo Fabrica de Autopecas                                Data da execução : 3/17/2021
+Analista: Jordan Lucas                                                Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 3000.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Registro de intervalo de retirada de palet  32.337     (Insuf)    24.979     100.95         90    
+Furar.WaitTimePerEntity                     20.473     (Corr)     .00000     62.379       1373    
+Retirar o Palet.TotalTimePerEntity          4.0744     (Insuf)    1.6771     6.4423         91    
+Retirar o Palet.VATimePerEntity             4.0744     (Insuf)    1.6771     6.4423         91    
+Realizar Tratamento Termico.TotalTimePerEn  40.758     (Insuf)    13.920     90.829        139    
+Retificar.VATimePerEntity                   1.0007     .03122     .00000     2.4912       1430    
+Resfriar.VATimePerEntity                    13.714     (Insuf)    5.5961     19.352        139    
+Retificar.WaitTimePerEntity                 9.0154     2.0520     .00000     43.494       1430    
+Furar.VATimePerEntity                       1.9813     .02890     .80589     3.1463       1373    
+Retificar.TotalTimePerEntity                10.016     2.0652     .04619     45.301       1430    
+Realizar Tratamento Termico.WaitTimePerEnt  22.308     (Insuf)    .00000     75.035        139    
+Retirar o Palet.WaitTimePerEntity           .00000     (Insuf)    .00000     .00000         91    
+Resfriar.TotalTimePerEntity                 13.714     (Insuf)    5.5961     19.352        139    
+Furar.TotalTimePerEntity                    22.454     (Corr)     1.4915     64.080       1373    
+Grava tempo de Processo                     119.46     (Insuf)    74.745     187.08         91    
+Realizar Tratamento Termico.VATimePerEntit  18.449     (Insuf)    13.031     24.650        139    
+gravar tempo entre lotes                    21.423     (Insuf)    13.031     109.32        138    
+Peca.VATime                                 532.26     (Insuf)    435.01     634.34         91    
+Peca.NVATime                                .00000     (Insuf)    .00000     .00000         91    
+Peca.WaitTime                               1056.6     (Insuf)    484.11     2002.9         91    
+Peca.TranTime                               .00000     (Insuf)    .00000     .00000         91    
+Peca.OtherTime                              .00000     (Insuf)    .00000     .00000         91    
+Peca.TotalTime                              119.46     (Insuf)    74.745     187.08         91    
+Criar o Lote de 10 pecas.Queue.WaitingTime  4.4899     .18553     .00000     13.206       1430    
+Retirar o Palet.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000         91    
+Retificar.Queue.WaitingTime                 9.0154     2.0520     .00000     43.494       1430    
+Furar.Queue.WaitingTime                     20.476     (Corr)     .00000     62.379       1374    
+Processo do Torno.Queue.WaitingTime             --         --         --         --          0
+Realizar Tratamento Termico.Queue.WaitingT  22.694     (Insuf)    .00000     76.264        140    
+Montar Palet.Queue.WaitingTime              14.875     1.2740     .00000     96.981       1365    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Peca.WIP                                    54.914     (Corr)     .00000     109.00     69.000    
+Empilhadeira1.NumberBusy                    .12359     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira1.Utilization                   .12359     (Insuf)    .00000     1.0000     .00000    
+Torno.NumberBusy                            .00000     (Insuf)    .00000     .00000     .00000    
+Torno.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Torno.Utilization                           .00000     (Insuf)    .00000     .00000     .00000    
+Retifica.NumberBusy                         .47702     (Insuf)    .00000     1.0000     .00000    
+Retifica.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Retifica.Utilization                        .47702     (Insuf)    .00000     1.0000     .00000    
+Forno.NumberBusy                            .86107     (Insuf)    .00000     1.0000     1.0000    
+Forno.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Forno.Utilization                           .86107     (Insuf)    .00000     1.0000     1.0000    
+Furadeira.NumberBusy                        .90724     (Insuf)    .00000     1.0000     1.0000    
+Furadeira.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Furadeira.Utilization                       .90724     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberBusy                         .90724     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .90724     (Insuf)    .00000     1.0000     1.0000    
+Criar o Lote de 10 pecas.Queue.NumberInQue  2.1402     .33802     .00000     10.000     .00000    
+Retirar o Palet.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+Retificar.Queue.NumberInQueue               4.2973     1.5473     .00000     40.000     .00000    
+Furar.Queue.NumberInQueue                   9.4629     (Corr)     .00000     32.000     16.000    
+Processo do Torno.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+Realizar Tratamento Termico.Queue.NumberIn  1.1270     (Insuf)    .00000     6.0000     3.0000    
+Montar Palet.Queue.NumberInQueue            6.7926     .35950     .00000     15.000     8.0000    
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+Conta acionamento da empilhadeira                91  Infinite
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Retificar Number In                         1430.0    
+Furar Accum VA Time                         2720.3    
+Resfriar Accum VA Time                      1906.2    
+Retirar o Palet Accum VA Time               370.77    
+Realizar Tratamento Termico Accum Wait Tim  3100.9    
+Retificar Accum Wait Time                   12892.    
+Realizar Tratamento Termico Number In       143.00    
+Retirar o Palet Accum Wait Time             .00000    
+Retirar o Palet Number Out                  91.000    
+Realizar Tratamento Termico Number Out      139.00    
+Retificar Accum VA Time                     1431.0    
+Furar Number Out                            1373.0    
+Resfriar Number Out                         139.00    
+Furar Accum Wait Time                       28110.    
+Resfriar Number In                          139.00    
+Realizar Tratamento Termico Accum VA Time   2564.4    
+Retirar o Palet Number In                   91.000    
+Furar Number In                             1390.0    
+Retificar Number Out                        1430.0    
+Peca.NumberIn                               1664.0    
+Peca.NumberOut                              1595.0    
+Empilhadeira1.NumberSeized                  91.000    
+Empilhadeira1.ScheduledUtilization          .12359    
+Torno.NumberSeized                          .00000    
+Torno.ScheduledUtilization                  .00000    
+Retifica.NumberSeized                       1430.0    
+Retifica.ScheduledUtilization               .47702    
+Forno.NumberSeized                          140.00    
+Forno.ScheduledUtilization                  .86107    
+Furadeira.NumberSeized                      1374.0    
+Furadeira.ScheduledUtilization              .90724    
+Operador.NumberSeized                       1374.0    
+Operador.ScheduledUtilization               .90724    
+System.NumberOut                            91.000    
+
+
+Tempo executando a simulação: 0.03 minutos.
+Simulação completada.

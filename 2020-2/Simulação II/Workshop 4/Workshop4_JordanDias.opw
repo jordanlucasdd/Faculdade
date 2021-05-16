@@ -1,0 +1,32 @@
+[RESOURCES]
+Empilhadeira1
+Torno
+Retifica
+Forno
+Furadeira
+Operador
+[VARIABLES]
+Retificar.NumberIn
+Furar.VATime
+Criar o Lote de 10 pecas.NumberOut
+Resfriar.VATime
+Retirar o Palet.VATime
+Realizar Tratamento Termico.WaitTime
+Montar Palet.NumberOut
+Retificar.WaitTime
+Realizar Tratamento Termico.NumberIn
+Retirar o Palet.WaitTime
+Retirar o Palet.NumberOut
+Realizar Tratamento Termico.NumberOut
+Chegada de Pecas.NumberOut
+Retificar.VATime
+Separar Lote para Furar.NumberOut Orig
+Furar.NumberOut
+Resfriar.NumberOut
+Furar.WaitTime
+Resfriar.NumberIn
+Realizar Tratamento Termico.VATime
+Furar.NumberIn
+Retirar o Palet.NumberIn
+Retificar.NumberOut
+Fim do Processo.NumberOut

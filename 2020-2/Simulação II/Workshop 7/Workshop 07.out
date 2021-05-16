@@ -1,0 +1,2007 @@
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                     Sumário do período de arquecimento
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 1440.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             78.500     (Insuf)    67.705     95.493          4    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          4    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Caminhao.TotalTime                          78.500     (Insuf)    67.705     95.493          4    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          4    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          4    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2180     (Insuf)    .00000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .12059     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .12059     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .21806     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .21806     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .22789     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .22789     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           5.0000    
+Caminhao.NumberOut                          4.0000    
+Empilhadeira CD.NumberSeized                4.0000    
+Empilhadeira CD.ScheduledUtilization        .12059    
+Operacao CD.NumberSeized                    4.0000    
+Operacao CD.ScheduledUtilization            .21806    
+Empilhadeira Fabrica.NumberSeized           5.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .22789    
+System.NumberOut                            4.0000    
+
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 1 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 2160.0 Minutos 
+Statísticas foram apuradas no tempo de: 1440.0 Minutos (Thursday, March 18, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             89.459     (Insuf)    89.459     89.459          1    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          1    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          1    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          1    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          1    
+Caminhao.TotalTime                          89.459     (Insuf)    89.459     89.459          1    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.1856     (Insuf)    1.0000     2.0000     2.0000    
+Empilhadeira CD.NumberBusy                  .12362     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .12362     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .18564     (Insuf)    .00000     1.0000     1.0000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .18564     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberBusy             .08197     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .08197     (Insuf)    .00000     1.0000     1.0000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          1.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .12362    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .18564    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .08197    
+System.NumberOut                            1.0000    
+
+Iniciando replicação 2 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 2 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 2880.0 Minutos 
+Statísticas foram apuradas no tempo de: 2160.0 Minutos (Thursday, March 18, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             84.971     (Insuf)    79.243     90.700          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          84.971     (Insuf)    79.243     90.700          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.3012     (Insuf)    1.0000     2.0000     2.0000    
+Empilhadeira CD.NumberBusy                  .12995     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .12995     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .30122     (Insuf)    .00000     1.0000     1.0000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .30122     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberBusy             .21993     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .21993     (Insuf)    .00000     1.0000     1.0000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .12995    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .30122    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .21993    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 3 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 3 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 3600.0 Minutos 
+Statísticas foram apuradas no tempo de: 2880.0 Minutos (Friday, March 19, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             83.622     (Insuf)    68.946     100.36          3    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TotalTime                          83.622     (Insuf)    68.946     100.36          3    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2218     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .09687     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .09687     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .22186     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .22186     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .20286     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .20286     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          3.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .09687    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .22186    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .20286    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 4 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 4 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 4320.0 Minutos 
+Statísticas foram apuradas no tempo de: 3600.0 Minutos (Friday, March 19, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             98.188     (Insuf)    91.884     104.49          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          98.188     (Insuf)    91.884     104.49          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2727     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .15728     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .15728     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .27275     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .27275     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .17810     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .17810     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .15728    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .27275    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .17810    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 5 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 5 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 5040.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Saturday, March 20, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             80.814     (Insuf)    74.209     87.418          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          80.814     (Insuf)    74.209     87.418          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          3    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2244     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .18852     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .18852     (Insuf)    .00000     1.0000     1.0000    
+Operacao CD.NumberBusy                      .22448     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .22448     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .16281     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .16281     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                3.0000    
+Empilhadeira CD.ScheduledUtilization        .18852    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .22448    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .16281    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 6 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 6 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 5760.0 Minutos 
+Statísticas foram apuradas no tempo de: 5040.0 Minutos (Saturday, March 20, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             86.289     (Insuf)    79.695     93.033          3    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TotalTime                          86.289     (Insuf)    79.695     93.033          3    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          3    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.3595     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .18780     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .18780     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .35954     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .35954     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .23540     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .23540     (Insuf)    .00000     1.0000     1.0000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           3.0000    
+Caminhao.NumberOut                          3.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .18780    
+Operacao CD.NumberSeized                    3.0000    
+Operacao CD.ScheduledUtilization            .35954    
+Empilhadeira Fabrica.NumberSeized           3.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .23540    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 7 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 7 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 6480.0 Minutos 
+Statísticas foram apuradas no tempo de: 5760.0 Minutos (Sunday, March 21, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             89.091     (Insuf)    80.945     97.237          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          89.091     (Insuf)    80.945     97.237          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2474     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .14831     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .14831     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .24748     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .24748     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .19176     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .19176     (Insuf)    .00000     1.0000     1.0000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .14831    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .24748    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .19176    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 8 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 8 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 7200.0 Minutos 
+Statísticas foram apuradas no tempo de: 6480.0 Minutos (Sunday, March 21, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             70.293     (Insuf)    68.245     72.341          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          70.293     (Insuf)    68.245     72.341          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.1952     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .12319     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .12319     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .19526     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .19526     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .20240     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .20240     (Insuf)    .00000     1.0000     1.0000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .12319    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .19526    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .20240    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 9 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 9 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 7920.0 Minutos 
+Statísticas foram apuradas no tempo de: 7200.0 Minutos (Monday, March 22, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             83.908     (Insuf)    81.814     86.001          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          83.908     (Insuf)    81.814     86.001          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2330     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .12515     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .12515     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .23308     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .23308     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .15986     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .15986     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .12515    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .23308    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .15986    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 10 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 10 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 8640.0 Minutos 
+Statísticas foram apuradas no tempo de: 7920.0 Minutos (Monday, March 22, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             74.784     (Insuf)    68.886     80.682          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          74.784     (Insuf)    68.886     80.682          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2077     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .11686     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .11686     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .20773     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .20773     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .17726     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .17726     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .11686    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .20773    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .17726    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 11 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 11 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 9360.0 Minutos 
+Statísticas foram apuradas no tempo de: 8640.0 Minutos (Tuesday, March 23, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             87.323     (Insuf)    75.078     99.568          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          87.323     (Insuf)    75.078     99.568          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          3    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          3    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.3239     (Insuf)    1.0000     2.0000     2.0000    
+Empilhadeira CD.NumberBusy                  .18880     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .18880     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .32391     (Insuf)    .00000     1.0000     1.0000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .32391     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberBusy             .19211     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .19211     (Insuf)    .00000     1.0000     1.0000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           3.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                3.0000    
+Empilhadeira CD.ScheduledUtilization        .18880    
+Operacao CD.NumberSeized                    3.0000    
+Operacao CD.ScheduledUtilization            .32391    
+Empilhadeira Fabrica.NumberSeized           3.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .19211    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 12 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 12 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 10080.0 Minutos 
+Statísticas foram apuradas no tempo de: 9360.0 Minutos (Tuesday, March 23, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             87.981     (Insuf)    79.463     96.499          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          87.981     (Insuf)    79.463     96.499          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2331     (Insuf)    1.0000     2.0000     2.0000    
+Empilhadeira CD.NumberBusy                  .14471     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .14471     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .23313     (Insuf)    .00000     1.0000     1.0000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .23313     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberBusy             .17621     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .17621     (Insuf)    .00000     1.0000     1.0000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .14471    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .23313    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .17621    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 13 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 13 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 10800.0 Minutos 
+Statísticas foram apuradas no tempo de: 10080.0 Minutos (Wednesday, March 24, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             64.718     (Insuf)    62.419     67.016          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          64.718     (Insuf)    62.419     67.016          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2412     (Insuf)    1.0000     2.0000     2.0000    
+Empilhadeira CD.NumberBusy                  .14914     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .14914     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .24121     (Insuf)    .00000     1.0000     1.0000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .24121     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberBusy             .23429     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .23429     (Insuf)    .00000     1.0000     1.0000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .14914    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .24121    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .23429    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 14 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 14 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 11520.0 Minutos 
+Statísticas foram apuradas no tempo de: 10800.0 Minutos (Wednesday, March 24, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             79.039     (Insuf)    63.888     96.612          3    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TotalTime                          79.039     (Insuf)    63.888     96.612          3    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.1978     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .14115     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .14115     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .19782     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .19782     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .16760     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .16760     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          3.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .14115    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .19782    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .16760    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 15 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 15 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 12240.0 Minutos 
+Statísticas foram apuradas no tempo de: 11520.0 Minutos (Thursday, March 25, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             76.396     (Insuf)    70.503     82.288          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          76.396     (Insuf)    70.503     82.288          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2122     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .14064     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .14064     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .21221     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .21221     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .15268     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .15268     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .14064    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .21221    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .15268    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 16 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 16 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 12960.0 Minutos 
+Statísticas foram apuradas no tempo de: 12240.0 Minutos (Thursday, March 25, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             85.045     (Insuf)    69.490     100.60          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          85.045     (Insuf)    69.490     100.60          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2362     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .13423     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .13423     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .23624     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .23624     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .15769     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .15769     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .13423    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .23624    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .15769    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 17 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 17 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 13680.0 Minutos 
+Statísticas foram apuradas no tempo de: 12960.0 Minutos (Friday, March 26, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             76.662     (Insuf)    69.715     83.609          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          76.662     (Insuf)    69.715     83.609          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2129     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .14168     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .14168     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .21295     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .21295     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .19431     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .19431     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .14168    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .21295    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .19431    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 18 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 18 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 14400.0 Minutos 
+Statísticas foram apuradas no tempo de: 13680.0 Minutos (Friday, March 26, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             89.365     (Insuf)    75.890     102.84          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          89.365     (Insuf)    75.890     102.84          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2482     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .13749     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .13749     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .24824     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .24824     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .14932     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .14932     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .13749    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .24824    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .14932    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 19 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 19 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 15120.0 Minutos 
+Statísticas foram apuradas no tempo de: 14400.0 Minutos (Saturday, March 27, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             81.251     (Insuf)    81.155     81.348          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          81.251     (Insuf)    81.155     81.348          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2257     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .12476     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .12476     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .22570     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .22570     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .16091     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .16091     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .12476    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .22570    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .16091    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 20 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 20 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 15840.0 Minutos 
+Statísticas foram apuradas no tempo de: 15120.0 Minutos (Saturday, March 27, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             75.372     (Insuf)    65.890     84.855          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          75.372     (Insuf)    65.890     84.855          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          3    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2093     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .16737     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .16737     (Insuf)    .00000     1.0000     1.0000    
+Operacao CD.NumberBusy                      .20937     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .20937     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .14962     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .14962     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                3.0000    
+Empilhadeira CD.ScheduledUtilization        .16737    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .20937    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .14962    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 21 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 21 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 16560.0 Minutos 
+Statísticas foram apuradas no tempo de: 15840.0 Minutos (Sunday, March 28, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             80.950     (Insuf)    79.042     82.857          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          80.950     (Insuf)    79.042     82.857          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          3    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2510     (Insuf)    1.0000     2.0000     2.0000    
+Empilhadeira CD.NumberBusy                  .18214     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .18214     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .25100     (Insuf)    .00000     1.0000     1.0000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .25100     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberBusy             .19435     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .19435     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           3.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .18214    
+Operacao CD.NumberSeized                    3.0000    
+Operacao CD.ScheduledUtilization            .25100    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .19435    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 22 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 22 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 17280.0 Minutos 
+Statísticas foram apuradas no tempo de: 16560.0 Minutos (Sunday, March 28, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             74.639     (Insuf)    59.394     89.607          3    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TotalTime                          74.639     (Insuf)    59.394     89.607          3    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2848     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .16116     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .16116     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .28486     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .28486     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .27444     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .27444     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          3.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .16116    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .28486    
+Empilhadeira Fabrica.NumberSeized           3.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .27444    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 23 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 23 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 18000.0 Minutos 
+Statísticas foram apuradas no tempo de: 17280.0 Minutos (Monday, March 29, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             82.945     (Insuf)    81.702     84.188          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          82.945     (Insuf)    81.702     84.188          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2304     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .12770     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .12770     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .23040     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .23040     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .15879     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .15879     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .12770    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .23040    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .15879    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 24 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 24 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 18720.0 Minutos 
+Statísticas foram apuradas no tempo de: 18000.0 Minutos (Monday, March 29, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             82.139     (Insuf)    79.785     84.493          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          82.139     (Insuf)    79.785     84.493          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2281     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .13615     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .13615     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .22817     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .22817     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .17940     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .17940     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .13615    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .22817    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .17940    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 25 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 25 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 19440.0 Minutos 
+Statísticas foram apuradas no tempo de: 18720.0 Minutos (Tuesday, March 30, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             88.663     (Insuf)    80.239     97.211          3    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TotalTime                          88.663     (Insuf)    80.239     97.211          3    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          3    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          3    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.3694     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .19824     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .19824     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .36943     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .36943     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .21264     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .21264     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           3.0000    
+Caminhao.NumberOut                          3.0000    
+Empilhadeira CD.NumberSeized                3.0000    
+Empilhadeira CD.ScheduledUtilization        .19824    
+Operacao CD.NumberSeized                    3.0000    
+Operacao CD.ScheduledUtilization            .36943    
+Empilhadeira Fabrica.NumberSeized           3.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .21264    
+System.NumberOut                            3.0000    
+
+Iniciando replicação 26 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 26 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 20160.0 Minutos 
+Statísticas foram apuradas no tempo de: 19440.0 Minutos (Tuesday, March 30, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             80.735     (Insuf)    69.769     91.701          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          80.735     (Insuf)    69.769     91.701          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2242     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .18799     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .18799     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .22426     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .22426     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .16591     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .16591     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .18799    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .22426    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .16591    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 27 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 27 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 20880.0 Minutos 
+Statísticas foram apuradas no tempo de: 20160.0 Minutos (Wednesday, March 31, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             88.865     (Insuf)    85.759     91.970          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          88.865     (Insuf)    85.759     91.970          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          3    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          3    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2566     (Insuf)    1.0000     2.0000     2.0000    
+Empilhadeira CD.NumberBusy                  .19101     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .19101     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .25661     (Insuf)    .00000     1.0000     1.0000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .25661     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberBusy             .16307     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .16307     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           3.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                3.0000    
+Empilhadeira CD.ScheduledUtilization        .19101    
+Operacao CD.NumberSeized                    3.0000    
+Operacao CD.ScheduledUtilization            .25661    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .16307    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 28 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 28 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 21600.0 Minutos 
+Statísticas foram apuradas no tempo de: 20880.0 Minutos (Wednesday, March 31, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             70.676     (Insuf)    58.827     82.524          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          70.676     (Insuf)    58.827     82.524          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          2    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2257     (Insuf)    1.0000     2.0000     2.0000    
+Empilhadeira CD.NumberBusy                  .11435     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .11435     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .22575     (Insuf)    .00000     1.0000     1.0000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .22575     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberBusy             .17535     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .17535     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           2.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .11435    
+Operacao CD.NumberSeized                    2.0000    
+Operacao CD.ScheduledUtilization            .22575    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .17535    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 29 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 29 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 22320.0 Minutos 
+Statísticas foram apuradas no tempo de: 21600.0 Minutos (Thursday, April 01, 2021, 00:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             78.557     (Insuf)    78.426     78.688          2    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Caminhao.TotalTime                          78.557     (Insuf)    78.426     78.688          2    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          1    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.1790     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .08401     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .08401     (Insuf)    .00000     1.0000     1.0000    
+Operacao CD.NumberBusy                      .17903     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .17903     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .14050     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .14050     (Insuf)    .00000     1.0000     .00000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           1.0000    
+Caminhao.NumberOut                          2.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .08401    
+Operacao CD.NumberSeized                    1.0000    
+Operacao CD.ScheduledUtilization            .17903    
+Empilhadeira Fabrica.NumberSeized           2.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .14050    
+System.NumberOut                            2.0000    
+
+Iniciando replicação 30 de 30
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 30 de 30
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 23040.0 Minutos 
+Statísticas foram apuradas no tempo de: 22320.0 Minutos (Thursday, April 01, 2021, 12:00:00)
+Statísticas acumuladas para o tempo de: 720.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             62.994     (Insuf)    61.270     65.177          3    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Caminhao.WaitTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Caminhao.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Caminhao.TotalTime                          62.994     (Insuf)    61.270     65.177          3    
+Consumo de material pelo CD.Queue.WaitingT  .00000     (Insuf)    .00000     .00000          3    
+Descarregar caminhao.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          2    
+Carregar caminhao.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.2624     (Insuf)    1.0000     2.0000     1.0000    
+Empilhadeira CD.NumberBusy                  .17630     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira CD.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira CD.Utilization                 .17630     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberBusy                      .26248     (Insuf)    .00000     1.0000     .00000    
+Operacao CD.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operacao CD.Utilization                     .26248     (Insuf)    .00000     1.0000     .00000    
+Empilhadeira Fabrica.NumberBusy             .14774     (Insuf)    .00000     1.0000     1.0000    
+Empilhadeira Fabrica.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Empilhadeira Fabrica.Utilization            .14774     (Insuf)    .00000     1.0000     1.0000    
+Consumo de material pelo CD.Queue.NumberIn  .00000     (Insuf)    .00000     .00000     .00000    
+Descarregar caminhao.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Carregar caminhao.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           3.0000    
+Caminhao.NumberOut                          3.0000    
+Empilhadeira CD.NumberSeized                2.0000    
+Empilhadeira CD.ScheduledUtilization        .17630    
+Operacao CD.NumberSeized                    3.0000    
+Operacao CD.ScheduledUtilization            .26248    
+Empilhadeira Fabrica.NumberSeized           3.0000    
+Empilhadeira Fabrica.ScheduledUtilization   .14774    
+System.NumberOut                            3.0000    
+
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                              Resumo de resultados para 30 Replicações
+
+Projeto: Workshop7                                                   Data da execução : 3/17/2021
+Analista: Jordan                                                      Data de revisão do modelo: 3/17/2021
+
+
+                                             RESULTADOS
+
+Identificador                                 Média    Meia-largura Mínima    Maximo # de Replicações
+___________________________________________________________________________________________________
+
+Caminhao.NumberIn                           2.1666     .17217     1.0000     3.0000     30
+Caminhao.NumberOut                          2.1666     .17217     1.0000     3.0000     30
+Empilhadeira CD.NumberSeized                2.1666     .14152     2.0000     3.0000     30
+Empilhadeira CD.ScheduledUtilization        .14755     .01115     .08401     .19824     30
+Operacao CD.NumberSeized                    2.1666     .17217     1.0000     3.0000     30
+Operacao CD.ScheduledUtilization            .24339     .01714     .17903     .36943     30
+Empilhadeira Fabrica.NumberSeized           2.1666     .14152     2.0000     3.0000     30
+Empilhadeira Fabrica.ScheduledUtilization   .17864     .01330     .08197     .27444     30
+System.NumberOut                            2.1666     .17217     1.0000     3.0000     30
+
+Tempo executando a simulação: 0.08 minutos.
+Simulação completada.

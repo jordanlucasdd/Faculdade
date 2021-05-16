@@ -1,0 +1,16 @@
+[RESOURCES]
+Torno
+Forno
+Retífica
+Operador
+[VARIABLES]
+Retificar.NumberIn
+Tornear.NumberOut
+Tornear.NumberIn
+Chegada.NumberOut
+Aquecer.NumberOut
+Inspecionar.NumberOut
+Inspecionar.NumberIn
+Aquecer.NumberIn
+Fim da linha de produção.NumberOut
+Retificar.NumberOut

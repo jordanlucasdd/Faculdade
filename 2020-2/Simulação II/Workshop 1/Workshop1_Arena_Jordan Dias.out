@@ -1,0 +1,71 @@
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Workshop 1                                                  Data da execução : 3/17/2021
+Analista: Jordan Dias                                                 Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 3000.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Peças.VATime                                9.4298     .09307     6.3766     12.950        706    
+Peças.NVATime                               .00000     .00000     .00000     .00000        706    
+Peças.WaitTime                              159.62     (Corr)     .00000     313.30        706    
+Peças.TranTime                              .00000     .00000     .00000     .00000        706    
+Peças.OtherTime                             .00000     .00000     .00000     .00000        706    
+Peças.TotalTime                             169.05     (Corr)     8.1027     320.96        706    
+Tornear.Queue.WaitingTime                   71.363     (Corr)     .00000     154.89        738    
+Retificar.Queue.WaitingTime                 3.0196     1.1677     .00000     18.198        707    
+Inspecionar.Queue.WaitingTime               76.170     (Corr)     .00000     157.46        708    
+Aquecer.Queue.WaitingTime                   10.681     2.9533     .00000     60.177        765    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Peças.WIP                                   42.157     (Corr)     .00000     83.000     59.000    
+Torno.NumberBusy                            .24537     .03414     .00000     1.0000     .00000    
+Torno.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Torno.Utilization                           .24537     .03414     .00000     1.0000     .00000    
+Forno.NumberBusy                            .49723     (Insuf)    .00000     1.0000     .00000    
+Forno.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Forno.Utilization                           .49723     (Insuf)    .00000     1.0000     .00000    
+Retífica.NumberBusy                         .82689     .06218     .00000     1.0000     1.0000    
+Retífica.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Retífica.Utilization                        .82689     .06218     .00000     1.0000     1.0000    
+Operador.NumberBusy                         .94912     (Insuf)    .00000     1.0000     1.0000    
+Operador.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operador.Utilization                        .94912     (Insuf)    .00000     1.0000     1.0000    
+Tornear.Queue.NumberInQueue                 18.042     (Corr)     .00000     47.000     27.000    
+Retificar.Queue.NumberInQueue               .71163     (Corr)     .00000     5.0000     .00000    
+Inspecionar.Queue.NumberInQueue             18.405     (Corr)     .00000     47.000     30.000    
+Aquecer.Queue.NumberInQueue                 2.7238     (Corr)     .00000     26.000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Peças.NumberIn                              765.00    
+Peças.NumberOut                             706.00    
+Torno.NumberSeized                          738.00    
+Torno.ScheduledUtilization                  .24537    
+Forno.NumberSeized                          765.00    
+Forno.ScheduledUtilization                  .49723    
+Retífica.NumberSeized                       707.00    
+Retífica.ScheduledUtilization               .82689    
+Operador.NumberSeized                       1446.0    
+Operador.ScheduledUtilization               .94912    
+System.NumberOut                            706.00    
+
+
+Tempo executando a simulação: 0.03 minutos.
+Simulação completada.

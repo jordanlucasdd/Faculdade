@@ -1,0 +1,71 @@
+
+                                      ARENA Simulation Results
+                                   Jordan Dias - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Workshop9                                                   Data da execução : 3/17/2021
+Analista: Jordan Dias                                                 Data de revisão do modelo: 3/17/2021
+
+Replicação terminada no tempo de      : 50.0 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caminhao.VATime                             .00000     (Insuf)    .00000     .00000        309    
+Caminhao.NVATime                            .00000     (Insuf)    .00000     .00000        309    
+Caminhao.WaitTime                           .02299     (Insuf)    .00000     .23097        309    
+Caminhao.TranTime                           .00000     (Insuf)    .00000     .00000        309    
+Caminhao.OtherTime                          .15135     (Insuf)    .06478     .24584        309    
+Caminhao.TotalTime                          .17433     (Insuf)    .06478     .43419        309    
+Seize.Requisita Agente Despachador.Queue.W  .01701     (Insuf)    .00000     .23097        309    
+Seize.Requisita Empilhadeira.Queue.Waiting  .00310     (Insuf)    .00000     .16965        309    
+Seize.Requisita Operador.Queue.WaitingTime  .00122     (Insuf)    .00000     .06267        310    
+Seize.Requisita uma Baia livre.Queue.Waiti  .00105     (Insuf)    .00000     .08157        310    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Caminhao.WIP                                1.0780     .15447     .00000     6.0000     1.0000    
+Baia.NumberBusy                             1.0715     .15051     .00000     4.0000     1.0000    
+Baia.NumberScheduled                        4.0000     (Insuf)    4.0000     4.0000     4.0000    
+Baia.Utilization                            .26789     .03763     .00000     1.0000     .25000    
+Empilhadeira.NumberBusy                     .30603     .04375     .00000     2.0000     .00000    
+Empilhadeira.NumberScheduled                2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Empilhadeira.Utilization                    .15302     .02187     .00000     1.0000     .00000    
+Agente Despachador.NumberBusy               .15372     .02040     .00000     1.0000     .00000    
+Agente Despachador.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Agente Despachador.Utilization              .15372     .02040     .00000     1.0000     .00000    
+Operador.NumberBusy                         .80512     .10652     .00000     3.0000     1.0000    
+Operador.NumberScheduled                    3.0000     (Insuf)    3.0000     3.0000     3.0000    
+Operador.Utilization                        .26837     .03551     .00000     1.0000     .33333    
+Seize.Requisita Agente Despachador.Queue.N  .10515     (Insuf)    .00000     3.0000     .00000    
+Seize.Requisita Empilhadeira.Queue.NumberI  .01915     (Insuf)    .00000     3.0000     .00000    
+Seize.Requisita Operador.Queue.NumberInQue  .00759     (Insuf)    .00000     1.0000     .00000    
+Seize.Requisita uma Baia livre.Queue.Numbe  .00650     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caminhao.NumberIn                           310.00    
+Caminhao.NumberOut                          309.00    
+Baia.NumberSeized                           310.00    
+Baia.ScheduledUtilization                   .26789    
+Empilhadeira.NumberSeized                   309.00    
+Empilhadeira.ScheduledUtilization           .15302    
+Agente Despachador.NumberSeized             309.00    
+Agente Despachador.ScheduledUtilization     .15372    
+Operador.NumberSeized                       310.00    
+Operador.ScheduledUtilization               .26837    
+System.NumberOut                            309.00    
+
+
+Tempo executando a simulação: 0.03 minutos.
+Simulação completada.

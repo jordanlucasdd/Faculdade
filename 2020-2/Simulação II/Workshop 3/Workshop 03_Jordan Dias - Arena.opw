@@ -1,0 +1,22 @@
+[RESOURCES]
+Operador 01
+Empilhadeira
+Retifica
+Forno
+Furadeira
+[VARIABLES]
+Retificar.NumberIn
+Cria Lote de 15.NumberOut
+Chegada.NumberOut
+Fim.NumberOut
+Cria Lote de 10 pecas.NumberOut
+Separa Lote.NumberOut Orig
+Montar Pallet.NumberOut
+Montar Pallet.NumberIn
+Fazer Tratamento Termico.NumberOut
+Furar.NumberOut
+Fazer Tratamento Termico.NumberIn
+Resfriar.NumberOut
+Resfriar.NumberIn
+Furar.NumberIn
+Retificar.NumberOut
